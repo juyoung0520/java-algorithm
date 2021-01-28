@@ -1,3 +1,4 @@
+# 각 노드의 인접 노드 배열로 담은 2차원 배열
 import sys
 from collections import deque
 
@@ -33,7 +34,7 @@ for i in range(m):
         graph[v2].append(v1)
 
 for i  in range(1, n+1):
-    graph[i].sort()  #인접노드 작은 것부터 방문하기로 해서.. 행렬로 표현하면 정렬안해도 됨.
+    graph[i].sort()  #인접노드 작은 것부터 방문하기로 해서 정렬
 
 dfs(graph, start, visited)
 print()
