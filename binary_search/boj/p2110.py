@@ -8,7 +8,7 @@ home.sort()
 start = 1 #거리가 가장 작은 경우 
 end = home[- 1] - home[0] #거리가 가장 먼 경우, 리스트[-1]은 마지막 요소, 리스트[-2]는 마지막에서 두번째 요소
 result = 0
-''
+
 while start <= end:
     mid = (start + end) // 2 #가장 인접한 경우의 거리
     current = home[0] #가장 최근에 설치된 공유기. 처음 설치는 첫 원소로
