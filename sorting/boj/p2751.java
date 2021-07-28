@@ -1,8 +1,8 @@
-package baek_joon;
+package sorting.boj;
 import java.util.*;
 import java.io.*;
 
-public class sorting_2751 {
+public class p2751 {
 
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

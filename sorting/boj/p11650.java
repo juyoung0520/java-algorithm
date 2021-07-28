@@ -1,4 +1,4 @@
-package baek_joon;
+package sorting.boj;
 import java.io.*;
 import java.util.Arrays;
 import java.util.StringTokenizer;

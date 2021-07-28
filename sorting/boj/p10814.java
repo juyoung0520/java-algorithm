@@ -1,4 +1,4 @@
-package baek_joon;
+package sorting.boj;
 import java.util.*;
 import java.io.*;
 
