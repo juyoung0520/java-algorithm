@@ -34,6 +34,7 @@ array, ripe = [], deque()
 for i in range(n):
     array.append(list(map(int, stdin.readline().split())))
 
+# 이미 익은 토마토들을 queue에 넣어놔야 함
 for i in range(n):
     for j in range(m):
         if array[i][j] == 1:
