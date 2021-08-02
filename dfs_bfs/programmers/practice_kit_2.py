@@ -7,10 +7,10 @@ def dfs(v, computers, visited):
             dfs(i, computers, visited)
 
 def solution(n, computers):
-    visited = [False * (n + 1)]
+    visited = [False * n]
     count = 0
 
-    for i in range(n + 1):
+    for i in range(n):
         # 총 연결 요소 개수 구하기
         if visited[i] == False:
             dfs(i, computers, visited)

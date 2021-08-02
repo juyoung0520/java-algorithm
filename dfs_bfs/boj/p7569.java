@@ -7,7 +7,7 @@ import java.util.*;
 
 public class p7569 {
     static Queue<Node> que = new LinkedList<>();
-    static int[][][] graph = new int[100][100][1000];
+    static int[][][] graph = new int[100][100][100];
     static int m, n, h;
 
     static class Node {
