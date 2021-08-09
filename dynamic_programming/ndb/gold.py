@@ -21,7 +21,7 @@ for tc in range(int(stdin.readline())):
             # 왼쪽에서 오는 경우 (모두 가능)
             left = dp[i][j - 1]
 
-            dp = dp[i][j] + max(left_up, left_down, left)
+            dp[i][j] = dp[i][j] + max(left_up, left_down, left)
     
     result = 0
     for i in range(n):
