@@ -1,4 +1,4 @@
-def solution(distance, rocks, n):
+ def solution(distance, rocks, n):
     answer = 0
     rocks.sort()
     dist = [rocks[0], rocks[-1]]
