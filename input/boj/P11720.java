@@ -8,6 +8,7 @@ import java.util.Scanner;
 public class P11720 {
     public static void main(String[] args) throws IOException {
         // Scanner sc = new Scanner(System.in);
+        // // 개행 버퍼에 남김
         // int n = sc.nextInt();
         // // nextLine으로 하면 런타임에러, 개행 때문에 그런가?
         // String str = sc.next();
@@ -24,7 +25,8 @@ public class P11720 {
 		br.readLine();	// N 은 쓸모가 없으므로 입력만 받는다.
 		
 		int sum = 0;
-		
+
+        // byte 배열로 변환
 		for(byte value : br.readLine().getBytes()) {
 			sum += (value - '0');	// 또는 (a-48)
 		}
