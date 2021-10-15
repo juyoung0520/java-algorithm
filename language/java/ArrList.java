@@ -18,6 +18,8 @@ public class ArrList {
         // 1번 원소
         list.get(1);
 
+        Collections.sort(list);
+
         for(Integer i : list) { 
             System.out.println(i);
         }
