@@ -6,7 +6,7 @@ home = [int(stdin.readline()) for _ in range(n)]
 home.sort()
 
 start = 1 #거리가 가장 작은 경우 
-end = home[- 1] - home[0] #거리가 가장 먼 경우, 리스트[-1]은 마지막 요소, 리스트[-2]는 마지막에서 두번째 요소
+end = home[-1] - home[0] #거리가 가장 먼 경우, 리스트[-1]은 마지막 요소, 리스트[-2]는 마지막에서 두번째 요소
 result = 0
 
 while start <= end:
