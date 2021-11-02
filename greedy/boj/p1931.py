@@ -12,7 +12,7 @@ end, count = 0, 0
 
 for a, b in meeting:
     if a >= end:
-        count += 1
+        count += 1  
         end = b
 
 print(count)
