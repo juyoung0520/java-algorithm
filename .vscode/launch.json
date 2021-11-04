@@ -1,0 +1,588 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch P1168",
+      "request": "launch",
+      "mainClass": "data_structure.queue.P1168",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P1158",
+      "request": "launch",
+      "mainClass": "data_structure.queue.P1158",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P1406",
+      "request": "launch",
+      "mainClass": "data_structure.P1406",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P11656",
+      "request": "launch",
+      "mainClass": "string.boj.P11656",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch P10815",
+      "request": "launch",
+      "mainClass": "binary_search.boj.P10815",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P10816",
+      "request": "launch",
+      "mainClass": "binary_search.boj.P10816",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P1654",
+      "request": "launch",
+      "mainClass": "binary_search.boj.P1654",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P2110",
+      "request": "launch",
+      "mainClass": "binary_search.boj.P2110",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch p2343",
+      "request": "launch",
+      "mainClass": "binary_search.boj.p2343",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch p2805",
+      "request": "launch",
+      "mainClass": "binary_search.boj.p2805",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch riceCake",
+      "request": "launch",
+      "mainClass": "binary_search.ndb.riceCake",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch practice_kit_1",
+      "request": "launch",
+      "mainClass": "binary_search.programmers.practice_kit_1",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P1476",
+      "request": "launch",
+      "mainClass": "brute_force.boj.P1476",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P10845",
+      "request": "launch",
+      "mainClass": "data_structure.queue.P10845",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P10866",
+      "request": "launch",
+      "mainClass": "data_structure.queue.P10866",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P10799",
+      "request": "launch",
+      "mainClass": "data_structure.stack.P10799",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P10828",
+      "request": "launch",
+      "mainClass": "data_structure.stack.P10828",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P9012",
+      "request": "launch",
+      "mainClass": "data_structure.stack.P9012",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P10451",
+      "request": "launch",
+      "mainClass": "dfs_bfs.boj.P10451",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P11724",
+      "request": "launch",
+      "mainClass": "dfs_bfs.boj.P11724",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P1260",
+      "request": "launch",
+      "mainClass": "dfs_bfs.boj.P1260",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P14226",
+      "request": "launch",
+      "mainClass": "dfs_bfs.boj.P14226",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P1697",
+      "request": "launch",
+      "mainClass": "dfs_bfs.boj.P1697",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P1707",
+      "request": "launch",
+      "mainClass": "dfs_bfs.boj.P1707",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P2667",
+      "request": "launch",
+      "mainClass": "dfs_bfs.boj.P2667",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P9466",
+      "request": "launch",
+      "mainClass": "dfs_bfs.boj.P9466",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch p2606",
+      "request": "launch",
+      "mainClass": "dfs_bfs.boj.p2606",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch p7569",
+      "request": "launch",
+      "mainClass": "dfs_bfs.boj.p7569",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch ice",
+      "request": "launch",
+      "mainClass": "dfs_bfs.ndb.ice",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch maze",
+      "request": "launch",
+      "mainClass": "dfs_bfs.ndb.maze",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch practice_kit_1(1)",
+      "request": "launch",
+      "mainClass": "dfs_bfs.programmers.practice_kit_1",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch practice_kit_2",
+      "request": "launch",
+      "mainClass": "dfs_bfs.programmers.practice_kit_2",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P11728",
+      "request": "launch",
+      "mainClass": "divide_conquer.boj.P11728",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P11728_2",
+      "request": "launch",
+      "mainClass": "divide_conquer.boj.P11728_2",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P11729",
+      "request": "launch",
+      "mainClass": "divide_conquer.boj.P11729",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P1780",
+      "request": "launch",
+      "mainClass": "divide_conquer.boj.P1780",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P2448",
+      "request": "launch",
+      "mainClass": "divide_conquer.boj.P2448",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P10844",
+      "request": "launch",
+      "mainClass": "dynamic_programming.boj.P10844",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P11053",
+      "request": "launch",
+      "mainClass": "dynamic_programming.boj.P11053",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P11054",
+      "request": "launch",
+      "mainClass": "dynamic_programming.boj.P11054",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P11055",
+      "request": "launch",
+      "mainClass": "dynamic_programming.boj.P11055",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P11057",
+      "request": "launch",
+      "mainClass": "dynamic_programming.boj.P11057",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P11722",
+      "request": "launch",
+      "mainClass": "dynamic_programming.boj.P11722",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P11726",
+      "request": "launch",
+      "mainClass": "dynamic_programming.boj.P11726",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P11727",
+      "request": "launch",
+      "mainClass": "dynamic_programming.boj.P11727",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P1463",
+      "request": "launch",
+      "mainClass": "dynamic_programming.boj.P1463",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P1912",
+      "request": "launch",
+      "mainClass": "dynamic_programming.boj.P1912",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P2156",
+      "request": "launch",
+      "mainClass": "dynamic_programming.boj.P2156",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P2193",
+      "request": "launch",
+      "mainClass": "dynamic_programming.boj.P2193",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P2579",
+      "request": "launch",
+      "mainClass": "dynamic_programming.boj.P2579",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P2951",
+      "request": "launch",
+      "mainClass": "dynamic_programming.boj.P2951",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P9095",
+      "request": "launch",
+      "mainClass": "dynamic_programming.boj.P9095",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P9465",
+      "request": "launch",
+      "mainClass": "dynamic_programming.boj.P9465",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch ant",
+      "request": "launch",
+      "mainClass": "dynamic_programming.ndb.ant",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch coin",
+      "request": "launch",
+      "mainClass": "dynamic_programming.ndb.coin",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch gold",
+      "request": "launch",
+      "mainClass": "dynamic_programming.ndb.gold",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch one",
+      "request": "launch",
+      "mainClass": "dynamic_programming.ndb.one",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch soldier",
+      "request": "launch",
+      "mainClass": "dynamic_programming.ndb.soldier",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P10610",
+      "request": "launch",
+      "mainClass": "greedy.boj.P10610",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P11047",
+      "request": "launch",
+      "mainClass": "greedy.boj.P11047",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P11399",
+      "request": "launch",
+      "mainClass": "greedy.boj.P11399",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P1783",
+      "request": "launch",
+      "mainClass": "greedy.boj.P1783",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P1931",
+      "request": "launch",
+      "mainClass": "greedy.boj.P1931",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P2217",
+      "request": "launch",
+      "mainClass": "greedy.boj.P2217",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P2873",
+      "request": "launch",
+      "mainClass": "greedy.boj.P2873",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P2875",
+      "request": "launch",
+      "mainClass": "greedy.boj.P2875",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch practice_kit_1(2)",
+      "request": "launch",
+      "mainClass": "greedy.programmers.practice_kit_1",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch practice_kit_2(1)",
+      "request": "launch",
+      "mainClass": "greedy.programmers.practice_kit_2",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P10810",
+      "request": "launch",
+      "mainClass": "input.boj.P10810",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P11720",
+      "request": "launch",
+      "mainClass": "input.boj.P11720",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P11721",
+      "request": "launch",
+      "mainClass": "input.boj.P11721",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P1924",
+      "request": "launch",
+      "mainClass": "input.boj.P1924",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch Arr",
+      "request": "launch",
+      "mainClass": "language.java.Arr",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch ArrList",
+      "request": "launch",
+      "mainClass": "language.java.ArrList",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch Io",
+      "request": "launch",
+      "mainClass": "language.java.Io",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch Io2",
+      "request": "launch",
+      "mainClass": "language.java.Io2",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch Io3",
+      "request": "launch",
+      "mainClass": "language.java.Io3",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch p10814",
+      "request": "launch",
+      "mainClass": "sorting.boj.p10814",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch p11650",
+      "request": "launch",
+      "mainClass": "sorting.boj.p11650",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch p2751",
+      "request": "launch",
+      "mainClass": "sorting.boj.p2751",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P10809",
+      "request": "launch",
+      "mainClass": "string.boj.P10809",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P10820",
+      "request": "launch",
+      "mainClass": "string.boj.P10820",
+      "projectName": "Algorithms_223e00db"
+    }
+  ]
+}
