@@ -6,6 +6,118 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch d",
+      "request": "launch",
+      "mainClass": "implement.boj.d",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P14501",
+      "request": "launch",
+      "mainClass": "implement.boj.P14501",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P1316",
+      "request": "launch",
+      "mainClass": "implement.boj.P1316",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P20055",
+      "request": "launch",
+      "mainClass": "implement.boj.P20055",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch Test",
+      "request": "launch",
+      "mainClass": "test.advancedJava.Assginment03.Test",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch Test2",
+      "request": "launch",
+      "mainClass": "test.advancedJava.Assginment03.Test2",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch Test2",
+      "request": "launch",
+      "mainClass": "test.고급자바.Assginment03.Test2",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch Test",
+      "request": "launch",
+      "mainClass": "test.고급자바.Assginment03.Test",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch Assignment02",
+      "request": "launch",
+      "mainClass": "test.고급자바.Assignment02.Assignment02",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch Assignment02",
+      "request": "launch",
+      "mainClass": "test.고급자바.Assignment02",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch First",
+      "request": "launch",
+      "mainClass": "test.고급자바.First",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch p2",
+      "request": "launch",
+      "mainClass": "test.미래인재.p2",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P10819",
+      "request": "launch",
+      "mainClass": "brute_force.boj.P10819",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P7576",
+      "request": "launch",
+      "mainClass": "dfs_bfs.boj.P7576",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P4963",
+      "request": "launch",
+      "mainClass": "dfs_bfs.boj.P4963",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P1699",
+      "request": "launch",
+      "mainClass": "dynamic_programming.boj.P1699",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
       "name": "Launch P1168",
       "request": "launch",
       "mainClass": "data_structure.queue.P1168",
