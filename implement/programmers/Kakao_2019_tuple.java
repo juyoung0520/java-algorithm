@@ -8,15 +8,6 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class Kakao_2019_tuple {
-    public static void main(String[] args) {
-        String s = "{{2}, {2, 3}}";
-        Pattern p = Pattern.compile("[0-9]+");
-        Matcher matcher = p.matcher(s);
-        while (matcher.find()) {
-            String tmp = matcher.group();
-            System.out.println(tmp);
-        }
-    }
     public List<Integer> solution(String s) {
         s = s.substring(2, s.length()-2);
         s = s.replace("},{", "-");
