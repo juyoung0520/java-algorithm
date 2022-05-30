@@ -34,10 +34,6 @@ public class Kakao_2022_k_number_prime {
             return false;
         }
         
-        if (num == 2) {
-            return true;
-        }
-        
         // O(N√N) 시간복잡도
         for (long i = 2; i <= Math.sqrt(num); i++) {
             if (num % i == 0) {
@@ -46,5 +42,28 @@ public class Kakao_2022_k_number_prime {
         }
         
         return true;
+    }
+
+    // 에라토스테네스의 체
+    public boolean isPrime(int num) {
+        if (num < 2) {
+            return false;
+        }
+
+        boolean[] prime = new boolean[num + 1];
+        prime[0] = prime[1] = true;
+
+        for (int i = 2; i <= Math.sqrt(num); i++) {
+            if (prime[i] == true) {
+                continue;
+            }
+
+            // i * i에서 시작해도 됨..
+            for (int j = i + i; j < prime.length; j += i) {
+                prime[j] = true;
+            }
+        }
+    
+        return !prime[num];
     }
 }
