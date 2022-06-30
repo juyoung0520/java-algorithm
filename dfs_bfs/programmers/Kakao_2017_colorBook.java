@@ -1,6 +1,8 @@
 package dfs_bfs.programmers;
 
 import java.util.Arrays;
+import java.util.LinkedList;
+import java.util.Queue;
 
 public class Kakao_2017_colorBook {
     static boolean[][] visited;
@@ -48,6 +50,39 @@ public class Kakao_2017_colorBook {
         }
 
         return area;
+    }
+
+    public static int bfs(int[][] picture, int m, int n, int x, int y) {
+        Queue<Node> que = new LinkedList<>();
+        que.offer(new Node(x, y));
+        int area = 1;
+        int value = picture[x][y];
+        
+        while (!que.isEmpty()) {
+            Node node = que.poll();
+            
+            for (int i = 0; i < 4; i++) {
+                int x1 = dx[i] + node.x;
+                int y1 = dy[i] + node.y;
+                
+                 if (0 <= x1 && x1 < m && 0 <= y1 && y1 < n && picture[x1][y1] == value && !visited[x1][y1]){
+                     visited[x1][y1] = true;
+                     que.offer(new Node(x1, y1));
+                     area++;
+                 }
+            }
+        }
+        
+        return area;
+    }
+    
+    static class Node {
+        int x;
+        int y;
+        Node(int x, int y) {
+            this.x = x;
+            this.y = y;
+        }
     }
     
 }
