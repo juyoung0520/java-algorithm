@@ -11,7 +11,6 @@ public class Kakao_2021_rank_search {
 
     public int[] solution(String[] info, String[] query) {
         int[] answer = new int[query.length];
-        map = new HashMap<>();
 
         for (int i = 0; i < info.length; i++) {
             String[] arr = info[i].split(" ");

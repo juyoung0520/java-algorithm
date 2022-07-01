@@ -6,6 +6,272 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch BoostCamp_WM_1",
+      "request": "launch",
+      "mainClass": "test.BoostCamp_WM_1",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P14889",
+      "request": "launch",
+      "mainClass": "backtracking.boj.P14889",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P9663",
+      "request": "launch",
+      "mainClass": "backtracking.boj.P9663",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P15652",
+      "request": "launch",
+      "mainClass": "backtracking.boj.P15652",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P15651",
+      "request": "launch",
+      "mainClass": "backtracking.boj.P15651",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P15650",
+      "request": "launch",
+      "mainClass": "backtracking.boj.P15650",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P1644",
+      "request": "launch",
+      "mainClass": "two_pointer.boj.P1644",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P1806",
+      "request": "launch",
+      "mainClass": "two_pointer.boj.P1806",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch Main",
+      "request": "launch",
+      "mainClass": "two_pointer.boj.Main",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P2003",
+      "request": "launch",
+      "mainClass": "two_pointer.boj.P2003",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch BoostCamp_ai_4",
+      "request": "launch",
+      "mainClass": "test.BoostCamp_ai_4",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch BoostCamp_ai_3",
+      "request": "launch",
+      "mainClass": "test.BoostCamp_ai_3",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch BoostCamp_ai_2",
+      "request": "launch",
+      "mainClass": "test.BoostCamp_ai_2",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch BoostCamp_ai_1",
+      "request": "launch",
+      "mainClass": "test.BoostCamp_ai_1",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P2589",
+      "request": "launch",
+      "mainClass": "dfs_bfs.boj.P2589",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch kakao_2020_string_compression",
+      "request": "launch",
+      "mainClass": "string.programmers.kakao_2020_string_compression",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch Skt_2022_route",
+      "request": "launch",
+      "mainClass": "test.Skt_2022_route",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch Work_2022_5",
+      "request": "launch",
+      "mainClass": "binary_search.programmers.Work_2022_5",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch Kakao_2020_press_keypad",
+      "request": "launch",
+      "mainClass": "implement.programmers.Kakao_2020_press_keypad",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch Kakao_2021_string_of_number_word",
+      "request": "launch",
+      "mainClass": "string.programmers.Kakao_2021_string_of_number_word",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch Kakao_2018_n_number_game",
+      "request": "launch",
+      "mainClass": "implement.programmers.Kakao_2018_n_number_game",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch Kakao_2018_file_name_sort",
+      "request": "launch",
+      "mainClass": "string.programmers.Kakao_2018_file_name_sort",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch Kakao_2018_compression",
+      "request": "launch",
+      "mainClass": "data_structure.hash.programmers.Kakao_2018_compression",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch Kakao_2018_that_song",
+      "request": "launch",
+      "mainClass": "implement.programmers.Kakao_2018_that_song",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch Kakao_2018_cache",
+      "request": "launch",
+      "mainClass": "data_structure.hash.programmers.Kakao_2018_cache",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch Kakao_2021_rank_search",
+      "request": "launch",
+      "mainClass": "implement.programmers.Kakao_2021_rank_search",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch Kakao_2019_tuple",
+      "request": "launch",
+      "mainClass": "implement.programmers.Kakao_2019_tuple",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch Kakao_2020_expression_max",
+      "request": "launch",
+      "mainClass": "backtracking.programmers.Kakao_2020_expression_max",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch Kakao_2021_new_id",
+      "request": "launch",
+      "mainClass": "string.programmers.Kakao_2021_new_id",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch Kakao_20218_news_clustering",
+      "request": "launch",
+      "mainClass": "backtracking.programmers.Kakao_20218_news_clustering",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch Kakao_2020_braket",
+      "request": "launch",
+      "mainClass": "implement.programmers.Kakao_2020_braket",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P15683",
+      "request": "launch",
+      "mainClass": "backtracking.boj.P15683",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P14888",
+      "request": "launch",
+      "mainClass": "backtracking.boj.P14888",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch Kakao_2017_colorBook",
+      "request": "launch",
+      "mainClass": "dfs_bfs.programmers.Kakao_2017_colorBook",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch Practice_kit_2",
+      "request": "launch",
+      "mainClass": "brute_force.programmers.Practice_kit_2",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P15649",
+      "request": "launch",
+      "mainClass": "backtracking.boj.P15649",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P4811",
+      "request": "launch",
+      "mainClass": "implement.boj.P4811",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
+      "name": "Launch P2980",
+      "request": "launch",
+      "mainClass": "implement.boj.P2980",
+      "projectName": "Algorithms_223e00db"
+    },
+    {
+      "type": "java",
       "name": "Launch d",
       "request": "launch",
       "mainClass": "implement.boj.d",
